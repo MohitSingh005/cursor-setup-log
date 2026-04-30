@@ -22,6 +22,15 @@ The goal is to demonstrate both:
 
 ---
 
+## 🏗️ System Architecture
+
+This project follows a simple AI-native research pipeline:
+
+Expert Selection → Content Extraction → Structuring → Storage → Insight Extraction 
+
+---
+
+
 ## 🧰 Development Environment
 
 The environment was configured using:
@@ -68,7 +77,7 @@ This resulted in a fully functional AI-assisted development environment.
 
 ---
 
-## 📊 Research System Extension (NEW)
+## 📊 Research System Extension 
 
 In addition to environment setup, this project was extended into an **AI-powered GTM research system** focused on modern B2B SaaS cold outreach strategies.
 
@@ -100,8 +109,11 @@ In addition to environment setup, this project was extended into an **AI-powered
 ### 📁 Supporting Files
 
 /research/sources.md → Expert reference index
+
 /research/other/script.py → Automation pipeline
+
 /research/other/api-method.md → Data collection approach
+
 /research/other/playbook.md → Early insight synthesis
 
 
