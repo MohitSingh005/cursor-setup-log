@@ -30,7 +30,6 @@ Expert Selection → Content Extraction → Structuring → Storage → Insight 
 
 ---
 
-
 ## 🧰 Development Environment
 
 The environment was configured using:
@@ -110,7 +109,7 @@ In addition to environment setup, this project was extended into an **AI-powered
 
 /research/sources.md → Expert reference index
 
-/research/other/script.py → Automation pipeline
+/research/other/script.py → Automation pipeline  
 
 /research/other/api-method.md → Data collection approach
 
