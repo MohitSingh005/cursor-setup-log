@@ -113,7 +113,7 @@ In addition to environment setup, this project was extended into an **AI-powered
 
 /research/other/api-method.md → Data collection approach
 
-/research/other/playbook.md → Early insight synthesis
+playbook.md → Early insight synthesis
 
 
 ---
@@ -201,3 +201,5 @@ This repository combines **AI-assisted engineering setup + real-world growth int
 
 It is designed as a foundation for building:
 > Modern AI-powered outbound and GTM systems for B2B SaaS growth.
+
+
